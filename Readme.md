@@ -1,0 +1,1 @@
+This task contains the entity diagram for Guvi Zen Class.
